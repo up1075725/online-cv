@@ -47,13 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Siakampeti Ioanna was born in 1991 in Patra, Greece. 
+      She entered the Department of Computer Science & Technology at University of Peloponnese in 2011 
+      and attained her degree in 2016. She has obtained the Michigan Certificate of Lower in English 
+      and the Diplome D’ Etudes en Langue Francaise DELF B2.
 
 education:
     - degree: Studing Msc Human and Computer Interaction
